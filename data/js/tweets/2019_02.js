@@ -1,6 +1,5820 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 19:56:34 +0000 2019",
+		"id": 1097948073051992000,
+		"id_str": "1097948073051992065",
+		"full_text": "คนไทยขึ้นแท่นแชมป์โลก สัดส่วนผู้ใช้บริการ Mobile Banking สูงสุด 74% ของผู้ใช้อินเทอร์เน็ตทั่วประเทศ https://t.co/vHE2JC4xqz #Droidsans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Droidsans",
+					"indices": [
+						124,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vHE2JC4xqz",
+					"expanded_url": "http://bit.ly/2Gv51yc",
+					"display_url": "bit.ly/2Gv51yc",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "คนไทยขึ้นแท่นแชมป์โลก สัดส่วนผู้ใช้บริการ Mobile Banking สูงสุด 74% ของผู้ใช้อินเทอร์เน็ตทั่วประเทศ https://t.co/vHE2JC4xqz #Droidsans"
+	},
+	{
+		"created_at": "Tue Feb 19 18:50:18 +0000 2019",
+		"id": 1097931396423827500,
+		"id_str": "1097931396423827457",
+		"full_text": "วิธีปลดกับระเบิดของ Caustic ในเกม Apex Legends https://t.co/4eK0FxJY6B #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						71,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4eK0FxJY6B",
+					"expanded_url": "http://bit.ly/2XcM74d",
+					"display_url": "bit.ly/2XcM74d",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "วิธีปลดกับระเบิดของ Caustic ในเกม Apex Legends https://t.co/4eK0FxJY6B #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 18:20:32 +0000 2019",
+		"id": 1097923907682742300,
+		"id_str": "1097923907682742273",
+		"full_text": "Bethesda แบนผู้เล่น Fallout 76 หลังใช้เวลาในเกมไป 900 ชั่วโมงหลังมี “กระสุน” เยอะเกิน https://t.co/VlY6FjLkC9 #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						110,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VlY6FjLkC9",
+					"expanded_url": "http://bit.ly/2DRLILQ",
+					"display_url": "bit.ly/2DRLILQ",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Bethesda แบนผู้เล่น Fallout 76 หลังใช้เวลาในเกมไป 900 ชั่วโมงหลังมี “กระสุน” เยอะเกิน https://t.co/VlY6FjLkC9 #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 17:20:35 +0000 2019",
+		"id": 1097908821266174000,
+		"id_str": "1097908821266173953",
+		"full_text": "God of War คว้ารางวัลบทวีดีโอเกมยอดเยี่ยมจากงานรางวัลสมาคมนักเขียนแห่งอเมริกา https://t.co/IF4OzJFqy8 #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						102,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IF4OzJFqy8",
+					"expanded_url": "http://bit.ly/2BIllb3",
+					"display_url": "bit.ly/2BIllb3",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "God of War คว้ารางวัลบทวีดีโอเกมยอดเยี่ยมจากงานรางวัลสมาคมนักเขียนแห่งอเมริกา https://t.co/IF4OzJFqy8 #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 15:55:15 +0000 2019",
+		"id": 1097887343351083000,
+		"id_str": "1097887343351083010",
+		"full_text": "Huawei พร้อมเปิดตัวสมาร์ทโฟน P30 และ P30 Pro ในวันที่ 26 มีนาคมนี้ https://t.co/dj7ngz02IN #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						91,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dj7ngz02IN",
+					"expanded_url": "http://bit.ly/2BHJbDD",
+					"display_url": "bit.ly/2BHJbDD",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Huawei พร้อมเปิดตัวสมาร์ทโฟน P30 และ P30 Pro ในวันที่ 26 มีนาคมนี้ https://t.co/dj7ngz02IN #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 15:51:34 +0000 2019",
+		"id": 1097886419366887400,
+		"id_str": "1097886419366887424",
+		"full_text": "Synology MR2200ac ขายไทยแล้ว Mesh Router ที่จะช่วยติดตั้งเครือข่าย WiFi เทพๆในบ้านได้แบบง่ายๆ https://t.co/l4061Sr3n9 #Droidsans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Droidsans",
+					"indices": [
+						118,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l4061Sr3n9",
+					"expanded_url": "http://bit.ly/2tr4ODT",
+					"display_url": "bit.ly/2tr4ODT",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Synology MR2200ac ขายไทยแล้ว Mesh Router ที่จะช่วยติดตั้งเครือข่าย WiFi เทพๆในบ้านได้แบบง่ายๆ https://t.co/l4061Sr3n9 #Droidsans"
+	},
+	{
+		"created_at": "Tue Feb 19 15:45:43 +0000 2019",
+		"id": 1097884947807916000,
+		"id_str": "1097884947807916032",
+		"full_text": "ยืนยันแล้ว? สมาร์ทโฟนพับได้รุ่นแรกของ Samsung จะใช้ชื่อ Galaxy Fold https://t.co/YTSyK7JCnR #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						92,
+						101
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YTSyK7JCnR",
+					"expanded_url": "http://bit.ly/2GQOXpZ",
+					"display_url": "bit.ly/2GQOXpZ",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "ยืนยันแล้ว? สมาร์ทโฟนพับได้รุ่นแรกของ Samsung จะใช้ชื่อ Galaxy Fold https://t.co/YTSyK7JCnR #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 15:35:21 +0000 2019",
+		"id": 1097882338959216600,
+		"id_str": "1097882338959216647",
+		"full_text": "ฉายก่อนเปิดตัว!! โฆษณาสมาร์ทโฟน Samsung Galaxy S10 series ออกอากาศทางทีวีแล้ว https://t.co/OPpXOqcizb #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						102,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OPpXOqcizb",
+					"expanded_url": "http://bit.ly/2GyE395",
+					"display_url": "bit.ly/2GyE395",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "ฉายก่อนเปิดตัว!! โฆษณาสมาร์ทโฟน Samsung Galaxy S10 series ออกอากาศทางทีวีแล้ว https://t.co/OPpXOqcizb #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 15:10:26 +0000 2019",
+		"id": 1097876065471602700,
+		"id_str": "1097876065471602690",
+		"full_text": "iPad mini 5 ยังไม่เปลี่ยนแปลงการออกแบบ แต่จะเน้นอัพเกรดสเปกภายใน https://t.co/oam0KqROz3 #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						89,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oam0KqROz3",
+					"expanded_url": "http://bit.ly/2BIbq53",
+					"display_url": "bit.ly/2BIbq53",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "iPad mini 5 ยังไม่เปลี่ยนแปลงการออกแบบ แต่จะเน้นอัพเกรดสเปกภายใน https://t.co/oam0KqROz3 #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 15:06:22 +0000 2019",
+		"id": 1097875045093920800,
+		"id_str": "1097875045093920768",
+		"full_text": "ทีมวิจัยโดยทุนจาก Elon Musk ประสบความสำเร็จสร้าง​ AI ที่เขียนบทความขึ้นเองได้ แต่ต้องถูกทำแท้งเพราะน่าสะพรึงเกินไป https://t.co/mc4foAw39T #Droidsans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Droidsans",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mc4foAw39T",
+					"expanded_url": "http://bit.ly/2NcuXiA",
+					"display_url": "bit.ly/2NcuXiA",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "ทีมวิจัยโดยทุนจาก Elon Musk ประสบความสำเร็จสร้าง​ AI ที่เขียนบทความขึ้นเองได้ แต่ต้องถูกทำแท้งเพราะน่าสะพรึงเกินไป https://t.co/mc4foAw39T #Droidsans"
+	},
+	{
+		"created_at": "Tue Feb 19 15:06:22 +0000 2019",
+		"id": 1097875041243541500,
+		"id_str": "1097875041243541504",
+		"full_text": "Qualcomm กำลังทดสอบชิปเซ็ตสำหรับ Android Go โดยเฉพาะ https://t.co/DeSVzRdyEH #Droidsans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Droidsans",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DeSVzRdyEH",
+					"expanded_url": "http://bit.ly/2EgISkP",
+					"display_url": "bit.ly/2EgISkP",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Qualcomm กำลังทดสอบชิปเซ็ตสำหรับ Android Go โดยเฉพาะ https://t.co/DeSVzRdyEH #Droidsans"
+	},
+	{
+		"created_at": "Tue Feb 19 14:55:18 +0000 2019",
+		"id": 1097872260151603200,
+		"id_str": "1097872260151603201",
+		"full_text": "สมาร์ทโฟนรุ่นแรกจาก iQOO แบรนด์ย่อยของ Vivo จะใช้ชิป Snapdragon 855 แรม 12GB ชาร์จเร็ว 44W https://t.co/yQNa3HBzhE #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						115,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yQNa3HBzhE",
+					"expanded_url": "http://bit.ly/2XbFNKt",
+					"display_url": "bit.ly/2XbFNKt",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "สมาร์ทโฟนรุ่นแรกจาก iQOO แบรนด์ย่อยของ Vivo จะใช้ชิป Snapdragon 855 แรม 12GB ชาร์จเร็ว 44W https://t.co/yQNa3HBzhE #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 14:45:43 +0000 2019",
+		"id": 1097869845226537000,
+		"id_str": "1097869845226536961",
+		"full_text": "PS Vita กำลังจะสิ้นสุดการผลิตในอนาคตอันใกล้นี้ https://t.co/Q056YfjLlU #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						71,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q056YfjLlU",
+					"expanded_url": "http://bit.ly/2EkGgT9",
+					"display_url": "bit.ly/2EkGgT9",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "PS Vita กำลังจะสิ้นสุดการผลิตในอนาคตอันใกล้นี้ https://t.co/Q056YfjLlU #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 11:40:09 +0000 2019",
+		"id": 1097823145787117600,
+		"id_str": "1097823145787117568",
+		"full_text": "Instagram ทดสอบฟีเจอร์ใหม่ บริจาคเงินให้องค์กร ผ่านสติกเกอร์ใน Stories https://t.co/aQAgHl4Uys #Blognone",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Blognone",
+					"indices": [
+						95,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aQAgHl4Uys",
+					"expanded_url": "http://bit.ly/2TXGFR0",
+					"display_url": "bit.ly/2TXGFR0",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Instagram ทดสอบฟีเจอร์ใหม่ บริจาคเงินให้องค์กร ผ่านสติกเกอร์ใน Stories https://t.co/aQAgHl4Uys #Blognone"
+	},
+	{
+		"created_at": "Tue Feb 19 11:01:15 +0000 2019",
+		"id": 1097813357493665800,
+		"id_str": "1097813357493665792",
+		"full_text": "PS Vita เตรียมยุติการผลิตเครื่องในญี่ปุ่น เร็ว ๆ นี้ https://t.co/5MKOmED2AE #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5MKOmED2AE",
+					"expanded_url": "http://bit.ly/2TUY10B",
+					"display_url": "bit.ly/2TUY10B",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "PS Vita เตรียมยุติการผลิตเครื่องในญี่ปุ่น เร็ว ๆ นี้ https://t.co/5MKOmED2AE #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 11:01:14 +0000 2019",
+		"id": 1097813353559404500,
+		"id_str": "1097813353559404544",
+		"full_text": "งงดิ! หนุ่มไทยใจดี สั่งการ์ดจอจากโลกออนไลน์ แต่กลับได้ “เย็นเย็น” มาดื่มแทน https://t.co/KhpgxD1vga #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						100,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KhpgxD1vga",
+					"expanded_url": "http://bit.ly/2BK9Vnc",
+					"display_url": "bit.ly/2BK9Vnc",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "งงดิ! หนุ่มไทยใจดี สั่งการ์ดจอจากโลกออนไลน์ แต่กลับได้ “เย็นเย็น” มาดื่มแทน https://t.co/KhpgxD1vga #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 10:40:10 +0000 2019",
+		"id": 1097808050394726400,
+		"id_str": "1097808050394726401",
+		"full_text": "5 สิ่งที่เราอยากเห็นใน Mortal Kombat 11 https://t.co/n5KPRku75g #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						64,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n5KPRku75g",
+					"expanded_url": "http://bit.ly/2trGeT5",
+					"display_url": "bit.ly/2trGeT5",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "5 สิ่งที่เราอยากเห็นใน Mortal Kombat 11 https://t.co/n5KPRku75g #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 10:16:10 +0000 2019",
+		"id": 1097802011565789200,
+		"id_str": "1097802011565789184",
+		"full_text": "การเดินทาง 10 ปี ของ Samsung Galaxy S กับนวัตกรรมที่พัฒนามาอย่างต่อเนื่องจนถึง S10 https://t.co/4lztsc646D #Droidsans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Droidsans",
+					"indices": [
+						107,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4lztsc646D",
+					"expanded_url": "http://bit.ly/2V3xjTH",
+					"display_url": "bit.ly/2V3xjTH",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "การเดินทาง 10 ปี ของ Samsung Galaxy S กับนวัตกรรมที่พัฒนามาอย่างต่อเนื่องจนถึง S10 https://t.co/4lztsc646D #Droidsans"
+	},
+	{
+		"created_at": "Tue Feb 19 09:41:17 +0000 2019",
+		"id": 1097793231918645200,
+		"id_str": "1097793231918645248",
+		"full_text": "Google เริ่มทดสอบ Android Q เตรียมใช้ gesture แทนที่ปุ่ม back และเพิ่มความรวดเร็วในการสลับแอป https://t.co/T8Ts9Ic0UN #Droidsans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Droidsans",
+					"indices": [
+						118,
+						128
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T8Ts9Ic0UN",
+					"expanded_url": "http://bit.ly/2Sbe88T",
+					"display_url": "bit.ly/2Sbe88T",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Google เริ่มทดสอบ Android Q เตรียมใช้ gesture แทนที่ปุ่ม back และเพิ่มความรวดเร็วในการสลับแอป https://t.co/T8Ts9Ic0UN #Droidsans"
+	},
+	{
+		"created_at": "Tue Feb 19 09:30:39 +0000 2019",
+		"id": 1097790559018803200,
+		"id_str": "1097790559018803200",
+		"full_text": "ลือ! Scalebound อาจคืนชีพลง Nintendo Switch https://t.co/PgWXWIDuCy #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PgWXWIDuCy",
+					"expanded_url": "http://bit.ly/2IoxaZw",
+					"display_url": "bit.ly/2IoxaZw",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "vi",
+		"text": "ลือ! Scalebound อาจคืนชีพลง Nintendo Switch https://t.co/PgWXWIDuCy #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 09:25:24 +0000 2019",
+		"id": 1097789235225153500,
+		"id_str": "1097789235225153537",
+		"full_text": "Amazon เตรียมอัดงบสู้ ตั้งเป้าผลิตหนังปีละ 30 เรื่อง บางเรื่องจะไม่เข้าโรงแล้วแต่ตรงไป Prime Video เลย https://t.co/swfaaKHzIc #Blognone",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Blognone",
+					"indices": [
+						127,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/swfaaKHzIc",
+					"expanded_url": "http://bit.ly/2IndghM",
+					"display_url": "bit.ly/2IndghM",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Amazon เตรียมอัดงบสู้ ตั้งเป้าผลิตหนังปีละ 30 เรื่อง บางเรื่องจะไม่เข้าโรงแล้วแต่ตรงไป Prime Video เลย https://t.co/swfaaKHzIc #Blognone"
+	},
+	{
+		"created_at": "Tue Feb 19 09:15:31 +0000 2019",
+		"id": 1097786749693165600,
+		"id_str": "1097786749693165568",
+		"full_text": "เผยโฉมเครื่องจริงของ Xiaomi Mi 9 Explorer Edition จากผู้บริหารของ Xiaomi https://t.co/S1eptv4OIP #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						97,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S1eptv4OIP",
+					"expanded_url": "http://bit.ly/2V8mIHk",
+					"display_url": "bit.ly/2V8mIHk",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "เผยโฉมเครื่องจริงของ Xiaomi Mi 9 Explorer Edition จากผู้บริหารของ Xiaomi https://t.co/S1eptv4OIP #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 09:10:10 +0000 2019",
+		"id": 1097785402105258000,
+		"id_str": "1097785402105257984",
+		"full_text": "Samsung เลิกผลิตเครื่องเล่น Blu-ray อย่างถาวร https://t.co/TfR9DE0HTR #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TfR9DE0HTR",
+					"expanded_url": "http://bit.ly/2BK30dI",
+					"display_url": "bit.ly/2BK30dI",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Samsung เลิกผลิตเครื่องเล่น Blu-ray อย่างถาวร https://t.co/TfR9DE0HTR #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 09:00:44 +0000 2019",
+		"id": 1097783026619162600,
+		"id_str": "1097783026619162625",
+		"full_text": "Faker ยังต้องหนีตาย ! เมื่อปะทะกับ Darius สุดขี้โกง https://t.co/XjbvReVEWL #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XjbvReVEWL",
+					"expanded_url": "http://bit.ly/2XejAv4",
+					"display_url": "bit.ly/2XejAv4",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Faker ยังต้องหนีตาย ! เมื่อปะทะกับ Darius สุดขี้โกง https://t.co/XjbvReVEWL #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 08:56:26 +0000 2019",
+		"id": 1097781945914802200,
+		"id_str": "1097781945914802176",
+		"full_text": "เฟซบุ๊กแบนเพจไม่เปิดเผยความเกี่ยวพันกับรัสเซีย, ต้องแจ้งผู้ใช้ก่อนจะกลับมาเปิดอีกครั้ง https://t.co/3XQnJztBMu #Blognone",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Blognone",
+					"indices": [
+						111,
+						120
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3XQnJztBMu",
+					"expanded_url": "http://bit.ly/2SL9p2w",
+					"display_url": "bit.ly/2SL9p2w",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "เฟซบุ๊กแบนเพจไม่เปิดเผยความเกี่ยวพันกับรัสเซีย, ต้องแจ้งผู้ใช้ก่อนจะกลับมาเปิดอีกครั้ง https://t.co/3XQnJztBMu #Blognone"
+	},
+	{
+		"created_at": "Tue Feb 19 08:55:17 +0000 2019",
+		"id": 1097781656822399000,
+		"id_str": "1097781656822398977",
+		"full_text": "ชมภาพศิลปะบนผนัง ที่เกิดขึ้นจากพลังหมัดของ Goku, Luffy และ Naruto https://t.co/dcJJv9r1zZ #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						90,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dcJJv9r1zZ",
+					"expanded_url": "http://bit.ly/2XcMKLs",
+					"display_url": "bit.ly/2XcMKLs",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "ชมภาพศิลปะบนผนัง ที่เกิดขึ้นจากพลังหมัดของ Goku, Luffy และ Naruto https://t.co/dcJJv9r1zZ #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 08:50:32 +0000 2019",
+		"id": 1097780463505207300,
+		"id_str": "1097780463505207298",
+		"full_text": "Boombox บริจาคเงินสนับสนุน SC Tournament ที่ซึ่งเป็นจุดเริ่มต้นของเขา https://t.co/xLAWL5vq9k #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						94,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xLAWL5vq9k",
+					"expanded_url": "http://bit.ly/2Ne6SrT",
+					"display_url": "bit.ly/2Ne6SrT",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Boombox บริจาคเงินสนับสนุน SC Tournament ที่ซึ่งเป็นจุดเริ่มต้นของเขา https://t.co/xLAWL5vq9k #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 08:40:16 +0000 2019",
+		"id": 1097777879335792600,
+		"id_str": "1097777879335792640",
+		"full_text": "PUBG Mobile 0.11.0 นอกจากซอมบี้ยังมี Feature ดี ๆ อีกเพียบ https://t.co/yAQ5BIWw6C #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						83,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yAQ5BIWw6C",
+					"expanded_url": "http://bit.ly/2BJuvUD",
+					"display_url": "bit.ly/2BJuvUD",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "PUBG Mobile 0.11.0 นอกจากซอมบี้ยังมี Feature ดี ๆ อีกเพียบ https://t.co/yAQ5BIWw6C #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 08:30:38 +0000 2019",
+		"id": 1097775452532494300,
+		"id_str": "1097775452532494336",
+		"full_text": "PUBG Corp. สัญญาว่าจะเปิดตัวฟีเจอร์เพื่อส่งเสริมการเล่นเกมที่ดีต่อสุขภาพ https://t.co/F3In39k25t #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						97,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F3In39k25t",
+					"expanded_url": "http://bit.ly/2SJcRek",
+					"display_url": "bit.ly/2SJcRek",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "PUBG Corp. สัญญาว่าจะเปิดตัวฟีเจอร์เพื่อส่งเสริมการเล่นเกมที่ดีต่อสุขภาพ https://t.co/F3In39k25t #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 08:26:36 +0000 2019",
+		"id": 1097774436860735500,
+		"id_str": "1097774436860735488",
+		"full_text": "Huawei ขอเวลาอีกนิด พร้อมฉีกกฏแล้วสร้างใหม่กับ Hauwei P30 Series ปลายเดือนมีนาคมนี้ https://t.co/Cj6uDege3c #Droidsans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Droidsans",
+					"indices": [
+						108,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cj6uDege3c",
+					"expanded_url": "http://bit.ly/2SZQy3m",
+					"display_url": "bit.ly/2SZQy3m",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Huawei ขอเวลาอีกนิด พร้อมฉีกกฏแล้วสร้างใหม่กับ Hauwei P30 Series ปลายเดือนมีนาคมนี้ https://t.co/Cj6uDege3c #Droidsans"
+	},
+	{
+		"created_at": "Tue Feb 19 08:25:29 +0000 2019",
+		"id": 1097774156094099500,
+		"id_str": "1097774156094099456",
+		"full_text": "Far Cry New dawn ยอดขายลดลง 86% เมื่อเทียบกับ Far Cry 5 https://t.co/4IdQAP6AUx #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4IdQAP6AUx",
+					"expanded_url": "http://bit.ly/2VcguGv",
+					"display_url": "bit.ly/2VcguGv",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Far Cry New dawn ยอดขายลดลง 86% เมื่อเทียบกับ Far Cry 5 https://t.co/4IdQAP6AUx #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 08:25:04 +0000 2019",
+		"id": 1097774053371330600,
+		"id_str": "1097774053371330560",
+		"full_text": "Huawei พยายามขโมยความลับทางการค้าของ Apple รวมถึงนโยบายจ่ายโบนัส และใช้กลยุทธ์ที่น่าสงสัย https://t.co/UKQCfH2ICV #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						114,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UKQCfH2ICV",
+					"expanded_url": "http://bit.ly/2BDhQ5p",
+					"display_url": "bit.ly/2BDhQ5p",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Huawei พยายามขโมยความลับทางการค้าของ Apple รวมถึงนโยบายจ่ายโบนัส และใช้กลยุทธ์ที่น่าสงสัย https://t.co/UKQCfH2ICV #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 08:15:22 +0000 2019",
+		"id": 1097771610889744400,
+		"id_str": "1097771610889744386",
+		"full_text": "ดารา AV ชื่อดังกำลังจะมีเกมของตัวเองบนเครื่อง Nintendo Switch https://t.co/eg1nDSAVC4 #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						86,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eg1nDSAVC4",
+					"expanded_url": "http://bit.ly/2EjJQwZ",
+					"display_url": "bit.ly/2EjJQwZ",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "ดารา AV ชื่อดังกำลังจะมีเกมของตัวเองบนเครื่อง Nintendo Switch https://t.co/eg1nDSAVC4 #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 08:01:03 +0000 2019",
+		"id": 1097768007605063700,
+		"id_str": "1097768007605063680",
+		"full_text": "3 ค่ายมือถือไทยพร้อมใจเปิดจอง New Galaxy วันที่ 21 ก.พ. 62 นี้พร้อมข้อเสนอสุดพิเศษ https://t.co/29avh3LmmG #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						107,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/29avh3LmmG",
+					"expanded_url": "http://bit.ly/2tsOHFC",
+					"display_url": "bit.ly/2tsOHFC",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "3 ค่ายมือถือไทยพร้อมใจเปิดจอง New Galaxy วันที่ 21 ก.พ. 62 นี้พร้อมข้อเสนอสุดพิเศษ https://t.co/29avh3LmmG #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 07:25:36 +0000 2019",
+		"id": 1097759088488923100,
+		"id_str": "1097759088488923137",
+		"full_text": "Kuo นักวิเคราะห์สินค้า Apple ขาประจำบอก ปีนี้เตรียมพบ MacBook Pro จอ 16 นิ้ว และอีกหลายข้อมูล https://t.co/oF3X2ycL0q #Blognone",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Blognone",
+					"indices": [
+						118,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oF3X2ycL0q",
+					"expanded_url": "http://bit.ly/2Gys5wi",
+					"display_url": "bit.ly/2Gys5wi",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Kuo นักวิเคราะห์สินค้า Apple ขาประจำบอก ปีนี้เตรียมพบ MacBook Pro จอ 16 นิ้ว และอีกหลายข้อมูล https://t.co/oF3X2ycL0q #Blognone"
+	},
+	{
+		"created_at": "Tue Feb 19 07:25:15 +0000 2019",
+		"id": 1097758998684753900,
+		"id_str": "1097758998684753921",
+		"full_text": "Samsung ยุติการทำตลาดเครื่องเล่น Blu-Ray ในสหรัฐอเมริกา ไม่ออกรุ่นใหม่อีกต่อไปแล้ว https://t.co/yTEV2iPUVa #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						107,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yTEV2iPUVa",
+					"expanded_url": "http://bit.ly/2DTCUVI",
+					"display_url": "bit.ly/2DTCUVI",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Samsung ยุติการทำตลาดเครื่องเล่น Blu-Ray ในสหรัฐอเมริกา ไม่ออกรุ่นใหม่อีกต่อไปแล้ว https://t.co/yTEV2iPUVa #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 06:55:47 +0000 2019",
+		"id": 1097751584900087800,
+		"id_str": "1097751584900087808",
+		"full_text": "Samsung Galaxy S6 เรือธงเมื่อ 4 ปีก่อน ได้รับการอัพเดทซอฟต์แวร์ด้านความปลอดภัยของเดือนมกราคม 2019 https://t.co/1OVxuVjWhY #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						122,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1OVxuVjWhY",
+					"expanded_url": "http://bit.ly/2EiG8n6",
+					"display_url": "bit.ly/2EiG8n6",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Samsung Galaxy S6 เรือธงเมื่อ 4 ปีก่อน ได้รับการอัพเดทซอฟต์แวร์ด้านความปลอดภัยของเดือนมกราคม 2019 https://t.co/1OVxuVjWhY #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 06:45:48 +0000 2019",
+		"id": 1097749072830701600,
+		"id_str": "1097749072830701568",
+		"full_text": "Ronda Rousey หยิบชุดตัวละครจาก Mortal Kombat ลุยศึกใหญ่ WWE https://t.co/Ps117hvtlD #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						84,
+						95
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ps117hvtlD",
+					"expanded_url": "http://bit.ly/2TVHcmp",
+					"display_url": "bit.ly/2TVHcmp",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Ronda Rousey หยิบชุดตัวละครจาก Mortal Kombat ลุยศึกใหญ่ WWE https://t.co/Ps117hvtlD #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 06:40:14 +0000 2019",
+		"id": 1097747670150594600,
+		"id_str": "1097747670150594560",
+		"full_text": "เผยราคา Samsung Galaxy S10+ รุ่นแรม 12GB รอม 1TB อยู่ที่ 10,000 หยวน หรือราว 46,100 บาท https://t.co/Tm64PiUwA5 #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						112,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Tm64PiUwA5",
+					"expanded_url": "http://bit.ly/2T2mbcv",
+					"display_url": "bit.ly/2T2mbcv",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "เผยราคา Samsung Galaxy S10+ รุ่นแรม 12GB รอม 1TB อยู่ที่ 10,000 หยวน หรือราว 46,100 บาท https://t.co/Tm64PiUwA5 #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 06:25:14 +0000 2019",
+		"id": 1097743893758701600,
+		"id_str": "1097743893758701568",
+		"full_text": "ผู้เล่น Minecraft สามารถสร้างรายการทีวีในเกมได้แล้ว https://t.co/JwoaGF9Gb6 #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JwoaGF9Gb6",
+					"expanded_url": "http://bit.ly/2EhvT2w",
+					"display_url": "bit.ly/2EhvT2w",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "ผู้เล่น Minecraft สามารถสร้างรายการทีวีในเกมได้แล้ว https://t.co/JwoaGF9Gb6 #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 06:02:12 +0000 2019",
+		"id": 1097738097771663400,
+		"id_str": "1097738097771663360",
+		"full_text": "อัพเดท Galaxy Note 8 เป็น Android 9 Pie งานนี้ได้ทั้ง One UI พร้อมฟีเจอร์ใหม่ๆ เพียบ https://t.co/Z1HQxDlHBm #Droidsans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Droidsans",
+					"indices": [
+						109,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z1HQxDlHBm",
+					"expanded_url": "http://bit.ly/2XcCPoT",
+					"display_url": "bit.ly/2XcCPoT",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "อัพเดท Galaxy Note 8 เป็น Android 9 Pie งานนี้ได้ทั้ง One UI พร้อมฟีเจอร์ใหม่ๆ เพียบ https://t.co/Z1HQxDlHBm #Droidsans"
+	},
+	{
+		"created_at": "Tue Feb 19 05:45:46 +0000 2019",
+		"id": 1097733962565406700,
+		"id_str": "1097733962565406720",
+		"full_text": "สิทธิบัตรจอแสดงผลพับได้ของ Apple เผยให้เห็นดีไซน์ iPhone หรือ iPad ในอนาคต https://t.co/rBmueHk22K #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						99,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rBmueHk22K",
+					"expanded_url": "http://bit.ly/2DRoyW3",
+					"display_url": "bit.ly/2DRoyW3",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "สิทธิบัตรจอแสดงผลพับได้ของ Apple เผยให้เห็นดีไซน์ iPhone หรือ iPad ในอนาคต https://t.co/rBmueHk22K #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 05:40:14 +0000 2019",
+		"id": 1097732570991730700,
+		"id_str": "1097732570991730690",
+		"full_text": "เปิดตัว Astral Chain เกมใหม่จากทางค่าย Platinum Games https://t.co/rT0EiW9caF #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						78,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rT0EiW9caF",
+					"expanded_url": "http://bit.ly/2Sf7KgU",
+					"display_url": "bit.ly/2Sf7KgU",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "เปิดตัว Astral Chain เกมใหม่จากทางค่าย Platinum Games https://t.co/rT0EiW9caF #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 05:15:30 +0000 2019",
+		"id": 1097726347982585900,
+		"id_str": "1097726347982585861",
+		"full_text": "Minecraft ทำรายได้ทะลุหลักหมื่นล้านเข้าไปแล้ว https://t.co/7ppk9Jggrg #GamingDose",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GamingDose",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ppk9Jggrg",
+					"expanded_url": "http://bit.ly/2NdSpvT",
+					"display_url": "bit.ly/2NdSpvT",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Minecraft ทำรายได้ทะลุหลักหมื่นล้านเข้าไปแล้ว https://t.co/7ppk9Jggrg #GamingDose"
+	},
+	{
+		"created_at": "Tue Feb 19 04:56:16 +0000 2019",
+		"id": 1097721506900205600,
+		"id_str": "1097721506900205568",
+		"full_text": "อุปกรณ์เสริม Galaxy S10 มาแล้ว ฟิล์มกันรอยไม่มีรูสแกนนิ้วตามที่หลุด พร้อมเคสฝาหลังไฟ LED ที่ดูแล้วน่าโดน https://t.co/yTeMJtuUO5 #Droidsans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Droidsans",
+					"indices": [
+						129,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yTeMJtuUO5",
+					"expanded_url": "http://bit.ly/2SZveek",
+					"display_url": "bit.ly/2SZveek",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "อุปกรณ์เสริม Galaxy S10 มาแล้ว ฟิล์มกันรอยไม่มีรูสแกนนิ้วตามที่หลุด พร้อมเคสฝาหลังไฟ LED ที่ดูแล้วน่าโดน https://t.co/yTeMJtuUO5 #Droidsans"
+	},
+	{
+		"created_at": "Tue Feb 19 04:40:42 +0000 2019",
+		"id": 1097717590032633900,
+		"id_str": "1097717590032633857",
+		"full_text": "เผยราคา Xiaomi Mi 9 และ Mi 9 Explorer Edition เริ่มต้นราว 15,220 บาท ไปจนถึง 27,675 บาท https://t.co/a2yoRsk9dI #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						112,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a2yoRsk9dI",
+					"expanded_url": "http://bit.ly/2SbN618",
+					"display_url": "bit.ly/2SbN618",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "เผยราคา Xiaomi Mi 9 และ Mi 9 Explorer Edition เริ่มต้นราว 15,220 บาท ไปจนถึง 27,675 บาท https://t.co/a2yoRsk9dI #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 04:10:09 +0000 2019",
+		"id": 1097709901487525900,
+		"id_str": "1097709901487525888",
+		"full_text": "Xiaomi Mi 9 รุ่นแผงหลังโปร่งแสง จะถูกชื่อตามภาพยนตร์ Alita: Battle Angel https://t.co/onybiO6g3G #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						97,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/onybiO6g3G",
+					"expanded_url": "http://bit.ly/2S7f9id",
+					"display_url": "bit.ly/2S7f9id",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Xiaomi Mi 9 รุ่นแผงหลังโปร่งแสง จะถูกชื่อตามภาพยนตร์ Alita: Battle Angel https://t.co/onybiO6g3G #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 03:46:07 +0000 2019",
+		"id": 1097703852214759400,
+		"id_str": "1097703852214759424",
+		"full_text": "Samsung  Galaxy M30 ยืนยันเปิดตัว 27 ก.พ นี้ มาพร้อมจอ Infinity U ใช้ชิป Exynos 7904 และกล้องหลัง 3 ตัว https://t.co/3gOJZjqXtn #Droidsans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Droidsans",
+					"indices": [
+						128,
+						138
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3gOJZjqXtn",
+					"expanded_url": "http://bit.ly/2XjIud4",
+					"display_url": "bit.ly/2XjIud4",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Samsung  Galaxy M30 ยืนยันเปิดตัว 27 ก.พ นี้ มาพร้อมจอ Infinity U ใช้ชิป Exynos 7904 และกล้องหลัง 3 ตัว https://t.co/3gOJZjqXtn #Droidsans"
+	},
+	{
+		"created_at": "Tue Feb 19 03:40:40 +0000 2019",
+		"id": 1097702483269435400,
+		"id_str": "1097702483269435393",
+		"full_text": "Apple มีแนวคิดใช้จอแสดงผลที่มีความยืดหยุ่นสูงกับ Apple Watch ในอนาคต จอภาพครอบคลุมไปถึงสายนาฬิกา https://t.co/cAXPhbUtSy #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cAXPhbUtSy",
+					"expanded_url": "http://bit.ly/2twJ9db",
+					"display_url": "bit.ly/2twJ9db",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "Apple มีแนวคิดใช้จอแสดงผลที่มีความยืดหยุ่นสูงกับ Apple Watch ในอนาคต จอภาพครอบคลุมไปถึงสายนาฬิกา https://t.co/cAXPhbUtSy #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 03:40:39 +0000 2019",
+		"id": 1097702478760607700,
+		"id_str": "1097702478760607750",
+		"full_text": "ฟีเจอร์ Group FaceTime ยังทำงานไม่สมบูรณ์ หลังจาก Apple ปล่อย iOS 12.1.4 ออกมาอุดช่องโหว่ https://t.co/YyhVNuwEWV #Flashfly",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Flashfly",
+					"indices": [
+						114,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YyhVNuwEWV",
+					"expanded_url": "http://bit.ly/2V84J3L",
+					"display_url": "bit.ly/2V84J3L",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "ฟีเจอร์ Group FaceTime ยังทำงานไม่สมบูรณ์ หลังจาก Apple ปล่อย iOS 12.1.4 ออกมาอุดช่องโหว่ https://t.co/YyhVNuwEWV #Flashfly"
+	},
+	{
+		"created_at": "Tue Feb 19 02:55:31 +0000 2019",
+		"id": 1097691117485768700,
+		"id_str": "1097691117485768704",
+		"full_text": "เหริน เจิ้งเฟย ผู้ก่อตั้งหัวเว่ยบอก \"อเมริกาไม่มีทางขยี้เราได้\" https://t.co/WLbItji1p4 #Blognone",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Blognone",
+					"indices": [
+						88,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WLbItji1p4",
+					"expanded_url": "http://bit.ly/2BIx751",
+					"display_url": "bit.ly/2BIx751",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 475660262,
+			"id_str": "475660262",
+			"name": "THAI TECH FEED",
+			"screen_name": "thaitechfeed",
+			"location": "Thailand",
+			"description": "ข่าวไอทีจากเว็บไซต์คุณภาพ อัปเดตตลอด 24 ชม. (ระบบอัตโนมัติ)",
+			"url": "https://t.co/LF7l8x1KoZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LF7l8x1KoZ",
+							"expanded_url": "https://thaitechfeed.openbase.co",
+							"display_url": "thaitechfeed.openbase.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7870,
+			"friends_count": 182,
+			"listed_count": 151,
+			"created_at": "Fri Jan 27 09:16:57 +0000 2012",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165545,
+			"lang": "th",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FF5722",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085322922787405824/ITIF7Kvq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/475660262/1547596125",
+			"profile_link_color": "FF5722",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "th",
+		"text": "เหริน เจิ้งเฟย ผู้ก่อตั้งหัวเว่ยบอก \"อเมริกาไม่มีทางขยี้เราได้\" https://t.co/WLbItji1p4 #Blognone"
+	},
+	{
 		"created_at": "Mon Feb 18 23:11:22 +0000 2019",
 		"id": 1097634709146910700,
 		"id_str": "1097634709146910720",
